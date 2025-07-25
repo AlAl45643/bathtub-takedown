@@ -1,0 +1,18 @@
+* Introduction
+Bathtub Takedown is a racing game based on a Southern Polytechnic State University tradition where students would engineer bathtubs into racing karts and compete in a race around the formerly SPSU campus. This project served as a capstone for the following members:
+
+Ali Ali
+Bailey Carter
+Monte Russel
+Adam Blair
+Jaedon Linen
+
+Here are some pictures:
+[[./Pictures/Start Screen.PNG]]
+[[./Pictures/Select Screen.PNG]]
+[[./Pictures/Starting.PNG]]
+[[./Pictures/Racing.PNG]]
+* Installation
+1. Download the zip file at https://github.com/AlAl45643/bathtub-takedown/releases
+2. Right click, click on "Extract All", and then follow the menu.
+3. Then navigate to the extracted folder and double click on BTT.
