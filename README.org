@@ -1,5 +1,5 @@
 * Introduction
-Bathtub Takedown is a racing game based on a Southern Polytechnic State University tradition where students would engineer bathtubs into racing karts and compete in a race around the formerly SPSU campus. This project served as a capstone for the following members:
+Bathtub Takedown is a racing game based on a Southern Polytechnic State University tradition where students would engineer bathtubs into racing karts and compete in a race around the former SPSU campus. This project served as a capstone for the following members:
 
 Ali Ali
 Bailey Carter
